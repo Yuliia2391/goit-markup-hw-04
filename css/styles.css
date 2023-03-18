@@ -223,19 +223,19 @@ body {
 }
 
 .about-icon-antenna::before {
-    background-image: url(../images-hw-04/1_antenna.svg);
+    background-image: url(../images-hw-04/antenna.svg);
 }
 
 .about-icon-clock::before {
-    background-image: url(../images-hw-04/1_clock.svg);
+    background-image: url(../images-hw-04/clock.svg);
 }
 
 .about-icon-diagram::before {
-    background-image: url(../images-hw-04/1_diagram.svg);
+    background-image: url(../images-hw-04/diagram.svg);
 }
 
 .about-icon-astronaut::before {
-    background-image: url(../images-hw-04/1_astronaut.svg);
+    background-image: url(../images-hw-04/astronaut.svg);
 }
 
 /* .about-item::before {
